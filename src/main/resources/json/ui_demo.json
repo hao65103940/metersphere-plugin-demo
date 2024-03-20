@@ -1,0 +1,32 @@
+[
+  {
+    "type": "input",
+    "field": "F1j962bs2p75f",
+    "title": "服务器ip",
+    "info": "",
+    "_fc_drag_tag": "input",
+    "hidden": false,
+    "display": true,
+    "value": "127.0.0.1"
+  },
+  {
+    "type": "input",
+    "field": "Fxpe62bs2ppdm",
+    "title": "端口",
+    "info": "",
+    "_fc_drag_tag": "input",
+    "hidden": false,
+    "display": true,
+    "value": "8080"
+  },
+  {
+    "type": "input",
+    "field": "Fcpz1on9st3cxi",
+    "title": "参数",
+    "info": "",
+    "_fc_drag_tag": "input",
+    "hidden": false,
+    "display": true,
+    "value": ""
+  }
+]
